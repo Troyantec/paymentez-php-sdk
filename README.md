@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://developers.troyantechnology.com/es/">
-    <img src="https://user-images.githubusercontent.com/1153516/29861072-689ec57e-8d3e-11e7-8368-dd923543258f.jpg" alt="Troyan Technology Developers" width="230"></a>
+    <img src="https://developers.paymentez.com/wp-content/uploads/2017/10/logo.png" alt="Troyan Technology Developers" width="150"></a>
   </a>
   <br>
   Paymentez PHP SDK
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/troyantec/paymentez-php-sdk">
-    <img src="https://user-images.githubusercontent.com/1153516/29859906-9453b50c-8d3a-11e7-88b6-ab354d4a4908.png">
+    <img src="#">
   </a>
 </p>
 
