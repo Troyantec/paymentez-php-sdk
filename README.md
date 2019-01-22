@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://developers.troyantechnology.com/es/">
-    <img src="https://developers.paymentez.com/wp-content/uploads/2017/10/logo.png" alt="Troyan Technology Developers" width="150"></a>
+    <img src="https://developers.paymentez.com/wp-content/uploads/2017/10/logo.png" alt="Troyan Technology Developers" width="150">
   </a>
   <br>
   Paymentez PHP SDK
