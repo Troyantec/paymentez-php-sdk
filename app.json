@@ -18,13 +18,13 @@
         "url": "heroku/php"
     }],
     "env": {
-        "App_ID": {
-            "description": "Enter the Application Id of the app you want to deploy. If you don't have an app yet, register a new one: http://applications.mercadolibre.com"
+        "App_code": {
+            "description": "Enter the Application Id of the app you want to deploy. If you don't have an app yet, register a new one: https://paymentez.com/"
         },
-        "Secret_Key": {
+        "App_key": {
             "description": "Enter it's Secret Key."
         },
-        "Redirect_URI": {
+        "Merchant_id": {
             "description": "Your application url. Use https://{yourappname}.herokuapp.com. Note you'll need to update this value for your app as well, through your My Apps dashboard."
         }
     }
