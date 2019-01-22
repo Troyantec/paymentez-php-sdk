@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">This is the official PHP SDK for Paymentez Platform.</h4>
+<h4 align="center">This is PHP SDK for Paymentez Platform.</h4>
 
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/troyantec/paymentez-php-sdk">
